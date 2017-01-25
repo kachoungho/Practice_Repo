@@ -8,5 +8,6 @@ public class Practice_Main {
 		System.out.println("test4");
 		System.out.println("Branch Test");
 		System.out.println("Branch Test2");
+		System.out.println("Branch Test3");
 	}
 }
